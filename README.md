@@ -1,49 +1,71 @@
-# World Happiness Report Analysis
+# World Happiness Analysis 🌍😊
 
-This repository contains the analysis of the World Happiness Report dataset. The goal is to explore the factors that contribute to happiness and identify actionable insights for improving happiness levels globally.
+An exploratory data analysis of the World Happiness Report focusing on the relationship between economic status and happiness across nations.
 
-## Project Structure
+## About The Project
 
-- `data/`: Contains the dataset used for the analysis.
-- `notebooks/`: Jupyter notebooks for exploratory data analysis (EDA).
-- `visualizations/`: Generated plots and visualizations.
-- `presentation/`: Slides and materials for presenting findings.
-- `reports/`: Final reports and documentation.
+### Project Goal
+To analyze the World Happiness Report dataset to understand the factors contributing to happiness, specifically focusing on how happiness levels vary across countries with different economic statuses. The aim is to highlight that wealth (GDP per capita) is not the sole determinant of happiness and to identify other significant factors.
+
+### Storyline: "Unequal Happiness: Rich, Poor & Outliers"
+This narrative explores the relationship between a country's economic status (GDP per capita) and its happiness score, identifying countries that defy the expected pattern (i.e., happy but poor, or rich but unhappy) and uncovering the underlying factors that explain these "outliers."
+
+### Key Research Questions
+1. How strong is the relationship between GDP per capita and the Happiness Score?
+   - Establishing the baseline expectation between wealth and happiness
+
+2. Which countries are "happy outliers"?
+   - Identifying nations with lower GDP but surprisingly high happiness scores
+   - Understanding the factors contributing to their well-being
+
+3. Which countries are "unhappy outliers"?
+   - Analyzing nations with high GDP but relatively lower happiness scores
+   - Exploring factors that might explain their discontent
+
+4. Beyond GDP, which other factors show the strongest correlation with happiness?
+   - Examining the role of social support, freedom, healthy life expectancy
+   - Analyzing the impact of generosity and perceptions of corruption
+   - Special focus on these factors in the context of outlier countries
+
+### Insights Preview
+![Sample Distribution](visualizations/univariate_plots/dist_score.png)
 
 ## Getting Started
+Check [technical_documentation.md](technical_documentation.md) for detailed documentation on:
+- Installation requirements
+- Project structure
+- Dataset description
+- Analysis process
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd happiness-eda-project
-   ```
-3. Install the required dependencies (if applicable).
+## Repository Structure Overview
+For a quick overview, the project includes:
+- Exploratory Data Analysis (EDA) in Jupyter notebooks
+- Visualizations of key findings
+- Processed statistics and insights
+- Utility functions for data analysis
 
-## Dataset
+For detailed technical information about the structure and setup, please refer to the [technical documentation](technical_documentation.md).
 
-The dataset is located in the `data/` directory. It includes the following columns:
-- Overall rank
-- Country or region
-- Score
-- GDP per capita
-- Healthy Life Expectancy
-- Social support
-- Freedom to make life choices
-- Generosity
-- Perceptions of corruption
-- Year
+## Authors and Acknowledgment
 
-## Analysis
+This analysis has been performed by:
 
-The analysis is conducted in the `notebooks/` directory. Key findings and visualizations are saved in the `visualizations/` directory.
+- [Ana Gamito](https://www.linkedin.com/in/ana-gamito/)
 
-## Presentation
+during the [Allwomen Data Analytics Bootcamp](https://www.allwomen.tech/bootcamp/data-analytics-bootcamp/)
 
-The `presentation/` directory contains slides and materials for presenting the findings.
+## License
 
-## Reports
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Final reports and documentation are saved in the `reports/` directory.
+## Data Source
+
+This analysis uses data from the [World Happiness Report](https://www.worldhappiness.report/), which is a landmark survey of the state of global happiness that ranks 156 countries by how happy their citizens perceive themselves to be. For more information about the methodology and annual reports, visit the [official World Happiness Report website](https://www.worldhappiness.report/).
+
+## Citation
+
+If you use this analysis or the World Happiness Report data, please cite:
+
+```
+Helliwell, J. F., Layard, R., Sachs, J. D., De Neve, J.-E., Aknin, L. B., & Wang, S. (Eds.). (2025). World Happiness Report 2025. University of Oxford: Wellbeing Research Centre.
+```
