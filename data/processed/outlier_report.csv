@@ -1,0 +1,92 @@
+variable,country,value,method
+freedom_to_make_life_choices,Angola,0.0,IQR
+freedom_to_make_life_choices,Afghanistan,0.0,IQR
+freedom_to_make_life_choices,Angola,0.0,Percentile
+freedom_to_make_life_choices,Afghanistan,0.0,Percentile
+freedom_to_make_life_choices,South Sudan,0.01,Percentile
+freedom_to_make_life_choices,Syria,0.013,Percentile
+freedom_to_make_life_choices,Denmark,0.6829999999999999,Percentile
+freedom_to_make_life_choices,Norway,0.6859999999999999,Percentile
+freedom_to_make_life_choices,Cambodia,0.696,Percentile
+freedom_to_make_life_choices,Uzbekistan,0.7240000000000001,Percentile
+gdp_per_capita,Somalia,0.0,Percentile
+gdp_per_capita,Somalia,0.0,Percentile
+gdp_per_capita,Central African Republic,0.024,Percentile
+gdp_per_capita,Central African Republic,0.026,Percentile
+gdp_per_capita,Luxembourg,1.5759999999999998,Percentile
+gdp_per_capita,Luxembourg,1.609,Percentile
+gdp_per_capita,Qatar,1.649,Percentile
+gdp_per_capita,Qatar,1.6840000000000002,Percentile
+generosity,Indonesia,0.484,IQR
+generosity,Indonesia,0.498,IQR
+generosity,Myanmar,0.5660000000000001,IQR
+generosity,Myanmar,0.598,IQR
+generosity,Greece,0.0,Percentile
+generosity,Greece,0.0,Percentile
+generosity,Botswana,0.025,Percentile
+generosity,Indonesia,0.484,Percentile
+generosity,Indonesia,0.498,Percentile
+generosity,Myanmar,0.5660000000000001,Percentile
+generosity,Myanmar,0.598,Percentile
+perceptions_of_corruption,United Kingdom,0.278,IQR
+perceptions_of_corruption,Germany,0.28,IQR
+perceptions_of_corruption,Somalia,0.282,IQR
+perceptions_of_corruption,Hong Kong,0.287,IQR
+perceptions_of_corruption,Australia,0.29,IQR
+perceptions_of_corruption,Canada,0.291,IQR
+perceptions_of_corruption,Hong Kong,0.291,IQR
+perceptions_of_corruption,Netherlands,0.295,IQR
+perceptions_of_corruption,Netherlands,0.298,IQR
+perceptions_of_corruption,Australia,0.302,IQR
+perceptions_of_corruption,Ireland,0.306,IQR
+perceptions_of_corruption,Canada,0.308,IQR
+perceptions_of_corruption,Ireland,0.31,IQR
+perceptions_of_corruption,Luxembourg,0.316,IQR
+perceptions_of_corruption,Luxembourg,0.321,IQR
+perceptions_of_corruption,Norway,0.34,IQR
+perceptions_of_corruption,Norway,0.341,IQR
+perceptions_of_corruption,Switzerland,0.343,IQR
+perceptions_of_corruption,Switzerland,0.357,IQR
+perceptions_of_corruption,Sweden,0.373,IQR
+perceptions_of_corruption,New Zealand,0.38,IQR
+perceptions_of_corruption,Sweden,0.383,IQR
+perceptions_of_corruption,New Zealand,0.389,IQR
+perceptions_of_corruption,Finland,0.393,IQR
+perceptions_of_corruption,Finland,0.393,IQR
+perceptions_of_corruption,Denmark,0.408,IQR
+perceptions_of_corruption,Denmark,0.41,IQR
+perceptions_of_corruption,Rwanda,0.411,IQR
+perceptions_of_corruption,Rwanda,0.444,IQR
+perceptions_of_corruption,Singapore,0.453,IQR
+perceptions_of_corruption,Singapore,0.457,IQR
+perceptions_of_corruption,Moldova,0.0,Percentile
+perceptions_of_corruption,Bosnia and Herzegovina,0.0,Percentile
+perceptions_of_corruption,Moldova,0.0,Percentile
+perceptions_of_corruption,Romania,0.001,Percentile
+perceptions_of_corruption,Rwanda,0.411,Percentile
+perceptions_of_corruption,Rwanda,0.444,Percentile
+perceptions_of_corruption,Singapore,0.453,Percentile
+perceptions_of_corruption,Singapore,0.457,Percentile
+score,South Sudan,2.853,Percentile
+score,Burundi,2.905,Percentile
+score,Central African Republic,3.083,Percentile
+score,Central African Republic,3.083,Percentile
+score,Norway,7.5939999999999985,Percentile
+score,Denmark,7.6,Percentile
+score,Finland,7.6320000000000014,Percentile
+score,Finland,7.769,Percentile
+social_support,Central African Republic,0.0,IQR
+social_support,Central African Republic,0.0,IQR
+social_support,Benin,0.3720000000000001,IQR
+social_support,Syria,0.378,IQR
+social_support,Syria,0.382,IQR
+social_support,Benin,0.4370000000000001,IQR
+social_support,Burundi,0.447,IQR
+social_support,Central African Republic,0.0,Percentile
+social_support,Central African Republic,0.0,Percentile
+social_support,Benin,0.3720000000000001,Percentile
+social_support,Syria,0.378,Percentile
+social_support,Finland,1.592,Percentile
+social_support,New Zealand,1.601,Percentile
+social_support,Iceland,1.624,Percentile
+social_support,Iceland,1.644,Percentile
