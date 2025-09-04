@@ -1,3 +1,5 @@
+![World Happiness Analysis](images/emoji-smile.jpg)
+
 # World Happiness Analysis 🌍😊
 
 An exploratory data analysis of the World Happiness Report focusing on the relationship between economic status and happiness across nations.
@@ -28,7 +30,7 @@ This narrative explores the relationship between a country's economic status (GD
    - Special focus on these factors in the context of outlier countries
 
 ### Insights Preview
-![Sample Distribution](visualizations/univariate_plots/dist_score.png)
+![GDP vs Happiness Score](visualizations/bivariate_plots/scatter/scatter-gpd-happiness-score.png)
 
 ## Getting Started
 Check [technical_documentation.md](technical_documentation.md) for detailed documentation on:
