@@ -30,7 +30,10 @@ This narrative explores the relationship between a country's economic status (GD
    - Special focus on these factors in the context of outlier countries
 
 ### Insights Preview
-![GDP vs Happiness Score](visualizations/bivariate_plots/scatter/scatter-gpd-happiness-score.png)
+![Feature Correlations Matrix](visualizations/multivariate_plots/scatter_matrix/scatter_matrix_top4_variables.png)
+
+### Full Report
+For a comprehensive analysis and detailed findings, you can view the complete report: [Beyond GDP: Exploring the Factors Behind Happiness](Beyond%20GDP%20Exploring%20the%20Factors%20Behind%20Happiness.pptx.pdf)
 
 ## Getting Started
 Check [technical_documentation.md](technical_documentation.md) for detailed documentation on:
